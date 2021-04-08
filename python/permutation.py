@@ -1,3 +1,4 @@
+# https://www.interviewbit.com/problems/itertools-combinatoric-iterators/
 from itertools import permutations as p
 def main():
     # YOUR CODE GOES HERE
@@ -14,3 +15,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+    
+    
+ 
