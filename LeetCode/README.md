@@ -12,3 +12,5 @@ File Name Format - DateMonth_NameOfProblemAtLeetcode
 24 - https://leetcode.com/problems/interval-list-intersections/
 
 25 - https://leetcode.com/problems/maximum-subarray/
+
+26 - https://leetcode.com/problems/search-insert-position/
