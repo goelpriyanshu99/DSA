@@ -26,3 +26,5 @@ Biweekly Contest 66 - https://leetcode.com/contest/biweekly-contest-66
 ## December 2021
 01 - https://leetcode.com/problems/house-robber/
 
+02 - https://leetcode.com/problems/odd-even-linked-list/
+
