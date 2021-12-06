@@ -30,3 +30,5 @@ Biweekly Contest 66 - https://leetcode.com/contest/biweekly-contest-66
 
 03 - https://leetcode.com/problems/maximum-product-subarray/
 
+06 - https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/
+
